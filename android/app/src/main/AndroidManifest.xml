@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.spots_coding_task">
+    <uses-permission android:name="android.permission.INTERNET" />
+    
    <application
         android:label="spots_coding_task"
         android:name="${applicationName}"

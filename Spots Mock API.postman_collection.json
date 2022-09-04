@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "9c0fc567-7b3d-4d9f-baf6-b9dbd06a8504",
+		"name": "Spots Mock API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19575418"
+	},
+	"item": [
+		{
+			"name": "get all campsites",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get all cities",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
